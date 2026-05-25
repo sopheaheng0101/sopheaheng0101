@@ -13,8 +13,6 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** and tech builder based in Phnom Penh, Cambodia. I am dedicated to bridging the educational gap by creating localized development tools and programming content in the **Khmer language**.
-
 *   🔭 **Current Focus:** Scaling educational web platforms and designing high-performance enterprise systems.
 *   💬 **Let's Talk About:** Angular architecture, .NET backend ecosystems, Tailwind CSS implementation, or growing the Khmer developer community.
 *   ⚡ **Mission:** Building Cambodia's developer ecosystem, one localized tutorial at a time.
