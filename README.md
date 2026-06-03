@@ -3,14 +3,6 @@
 
 ---
 
-## 🗞️ Featured In
-
-> 🇰🇭 **មិនបារម្ភរឿងភាសា! និស្សិតខ្មែរមួយរូបបង្កើតវេបសាយរៀនកូដជាភាសាជាតិ ជួយសម្រួលដល់ការស្រាវជ្រាវ IT**
-> 
-> *"No language barrier! A Cambodian student built a coding learning website in the national language, making IT research more accessible."*
-
----
-
 ## 🚀 About Me
 
 *   🔭 **Current Focus:** Scaling educational web platforms and designing high-performance enterprise systems.
