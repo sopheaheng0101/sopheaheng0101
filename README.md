@@ -40,7 +40,7 @@
 | :--- | :--- |
 | 🌐 **Facebook** | [HENG SOPHEA]|
 | 📺 **TikTok** | [@sophea.hengg0101]|
-| 🎥 **YouTube** | [sophea.heng0101] |
+| 🎥 **YouTube** | [sopheaofficial0101] |
 
 ---
 
