@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 
-*   🔭 **Current Focus:** Scaling educational web platforms and designing high-performance enterprise systems.
-*   💬 **Let's Talk About:** Angular architecture, .NET backend ecosystems, Tailwind CSS implementation, or growing the Khmer developer community.
-*   ⚡ **Mission:** Building Cambodia's developer ecosystem, one localized tutorial at a time.
+*   🔭 **Current Focus:** Scaling educational web platforms and designing high-performance enterprise systems.
+*   💬 **Let's Talk About:** Angular architecture, .NET backend ecosystems, Tailwind CSS implementation, or growing the Khmer developer community.
+*   ⚡ **Mission:** Building Cambodia's developer ecosystem, one localized tutorial at a time.
 
 ---
 
@@ -33,6 +33,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
+
 ## 🛠️ Featured Web Tools
 
 ### 1. Fast Invoice
@@ -42,18 +43,19 @@
 ### 2. DocPix.Tool
 * **Live App:** [docpixtool.web.app](https://docpixtool.web.app/)
 * **Overview:** ជា Web Utility ឬ Tool ជំនួយលើផ្នែកកែច្នៃរូបភាព និងឯកសារ (Image/Document Utilities) ដែលត្រូវបានរចនាឡើងយ៉ាងសម្រិតសម្រាំងដើម្បីផ្តល់ភាពងាយស្រួលដល់អ្នកប្រើប្រាស់ក្នុងការគ្រប់គ្រង កែទម្រង់ និងបំលែងឯកសារផ្សេងៗសម្រាប់ប្រើប្រាស់ប្រចាំថ្ងៃ។ វាមានចំណុចប្រទាក់ស្អាតទំនើប ងាយស្រួលប្រើប្រាស់ និងដំណើរការបានលឿនទាន់ចិត្តដោយមិនចាំបាច់តម្លើងកម្មវិធីធំៗក្នុងម៉ាស៊ីន។
-  ---
+
+---
 
 ## 📫 Connect with Me
 
 | Platform | Channel |
 | :--- | :--- |
-| 🌐 **Facebook** | [HENG SOPHEA]|
-| 📺 **TikTok** | [@sophea.hengg0101]|
+| 🌐 **Facebook** | [HENG SOPHEA] |
+| 📺 **TikTok** | [@sophea.hengg0101] |
 | 🎥 **YouTube** | [sopheaofficial0101] |
 
 ---
 
 <p align="center">
-  <i>Keep coding, keep building! 🚀</i>
+  <i>Keep coding, keep building! 🚀</i>
 </p>
