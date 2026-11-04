@@ -26,16 +26,6 @@
 - 💬 **និយាយជាមួយខ្ញុំអំពី៖** Angular, .NET, Tailwind CSS និងសហគមន៍អ្នកអភិវឌ្ឍន៍ខ្មែរ
 - ⚡ **បេសកកម្ម៖** កសាងប្រព័ន្ធអេកូឡូស៊ីអ្នកអភិវឌ្ឍន៍កម្ពុជា ម្តងមួយមេរៀនជាភាសាខ្មែរ
 
-```ts
-const sophea = {
-  country: "Cambodia 🇰🇭",
-  frontend: ["Angular", "Tailwind"],
-  backend: [".NET 9", "Firebase"],
-  mission: "Khmer dev community",
-};
-// keep coding, keep building 🚀
-```
-
 ---
 
 ## 🛠️ បច្ចេកវិទ្យា
@@ -78,11 +68,6 @@ const sophea = {
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sopheaheng0101&show_icons=true&theme=radical&hide_border=true&bg_color=0,12142e,2a1a4a" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopheaheng0101&layout=compact&theme=radical&hide_border=true&bg_color=0,12142e,2a1a4a" alt="Top languages">
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sopheaheng0101&theme=radical&hide_border=true&background=12142e" alt="Streak stats">
